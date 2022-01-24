@@ -1,4 +1,4 @@
-package main.java.character;
+package thomas.java.character;
 
 public class Viking extends Character{
 

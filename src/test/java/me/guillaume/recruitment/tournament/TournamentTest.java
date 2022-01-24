@@ -3,8 +3,7 @@ package me.guillaume.recruitment.tournament;
 
 import org.junit.jupiter.api.Test;
 
-import main.java.character.Swordsman;
-import main.java.character.Viking;
+import thomas.java.character.*;
 
 import static org.assertj.core.api.Assertions.assertThat;
 

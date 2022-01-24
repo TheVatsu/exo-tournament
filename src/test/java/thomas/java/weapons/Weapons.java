@@ -1,4 +1,4 @@
-package main.java.weapons;
+package thomas.java.weapons;
 
 public class Weapons {
 	
