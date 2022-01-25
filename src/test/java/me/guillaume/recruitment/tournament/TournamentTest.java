@@ -40,9 +40,7 @@ public class TournamentTest {
      * a buckler cancel all the damages of a blow one time out of two
      * a buckler is destroyed after blocking 3 blow from an axe
      */
-    /*
     @Test
-    
     public void SwordsmanWithBucklerVsVikingWithBuckler() {
 
         Swordsman swordsman = new Swordsman()
@@ -63,7 +61,6 @@ public class TournamentTest {
      * a Great Sword is a two handed sword deliver 12 damages, but can attack only 2 every 3
      * an armor : reduce all received damages by 3 & reduce delivered damages by one
      */
-    /*
     @Test
     public void ArmoredSwordsmanVsViking() {
 
@@ -86,7 +83,7 @@ public class TournamentTest {
      * a veteran Highlander goes Berserk once his hit points are under 30% of his initial total
      * once Berserk, he doubles his damages
      */
-    /*
+    
     @Test // Bonus points :D
     public void ViciousSwordsmanVsVeteranHighlander() {
 
@@ -102,6 +99,6 @@ public class TournamentTest {
         assertThat(swordsman.hitPoints()).isEqualTo(1);
         assertThat(highlander.hitPoints()).isEqualTo(0);
 
-    }*/
+    }
 
 }
